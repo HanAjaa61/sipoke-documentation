@@ -2,7 +2,7 @@
 
 _Terakhir diperbarui: 20 November 2026_
 
-SiPoke ("aplikasi") adalah aplikasi Pokédex sederhana yang dibuat untuk tugas kuliah dan bersifat non-profit. Halaman ini menjelaskan data apa yang dikumpulkan aplikasi dan bagaimana data tersebut digunakan.
+SiPoke adalah aplikasi Pokédex sederhana yang dibuat untuk tugas kuliah dan bersifat non-profit. Halaman ini menjelaskan data apa yang dikumpulkan aplikasi dan bagaimana data tersebut digunakan.
 
 ## Data yang dikumpulkan
 
